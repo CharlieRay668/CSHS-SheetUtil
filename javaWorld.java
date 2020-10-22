@@ -4,6 +4,6 @@ public class javaWorld {
         System.out.println("Hello World From Charlie!");
         System.out.println("Hello World from Jo!");
         System.out.println("Hello World from Lauren!");
-        System.out.println("Hello World from Ethan!");
+        System.out.println("Hello World from Ethan! ");
     }
 }

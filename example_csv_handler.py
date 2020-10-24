@@ -6,7 +6,7 @@ attendance_data = pd.read_csv('fake_data.csv', index_col=0)
 # Uncomment any part of the code to see what it does
 
 # Prints the beggining part of our data
-# print(attendance_data.head())
+print(attendance_data.head())
 
 # Print the columns of our data, call .values on it to return a normal python list
 # print(attendance_data.columns)

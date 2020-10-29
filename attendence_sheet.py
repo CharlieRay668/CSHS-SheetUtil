@@ -3,9 +3,9 @@ import numpy as np
 
 # places contents of csv into dataframe 'df' and prints out the percentage of class attended by each student in the class 
 
-pd.read_csv('data.csv', delimiter = ',')
+pd.read_csv('fake_data.csv', delimiter = ',')
 
-df = pd.read_csv('data.csv', delimiter = ',') 
+df = pd.read_csv('fake_data.csv', delimiter = ',') 
 
 names = (df.columns)
 counter =-1

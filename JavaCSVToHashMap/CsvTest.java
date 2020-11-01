@@ -1,4 +1,4 @@
-package JavaCSVToArrayList;
+package JavaCSVToHashMap;
 
 import java.io.File;
 import java.io.FileNotFoundException;
